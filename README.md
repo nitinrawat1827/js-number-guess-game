@@ -5,7 +5,7 @@ A simple number guessing game built using JavaScript.
 ## Features
 - Random number generation
 - User input validation
-- Shows attempts count
+- Shows attempts counts
 
 ## Tech Used
 - HTML
