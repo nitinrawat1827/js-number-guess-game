@@ -4,7 +4,7 @@ const random = Math.floor(Math.random() * max) +1;
 let guess = prompt("guess the number");
 
 while(true){
-    if (guess = "quit"){
+    if (guess == "quit"){
     console.log("user quit");
     break;
     }
@@ -21,6 +21,7 @@ while(true){
        
     }
 }
+
 
 
 
